@@ -1,4 +1,4 @@
-# Social Media App Build with React Js
+# PhotoBooth App Cloud Computing CS 623
 
 [PhotoBoot APP](https://photoapp-8de4c.web.app/)
 
